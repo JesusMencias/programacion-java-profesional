@@ -1,5 +1,8 @@
 # leccion_006_arquitectura_java_jvm
 
-> **Estado:** 🟡 En producción / Código Autodidacta (Guía Maestra v3.0)
+> **Estado:** 🟢 Completado / Código Autodidacta (Guía Maestra v3.0)
 
-Este directorio alberga la documentación teórica, esquemas de diseño y resolutivos de código fuente para esta lección.
+## 📌 Arquitectura Base
+- **JDK:** Java Development Kit (incluye `javac`, herramientas y JRE).
+- **JRE:** Java Runtime Environment (entorno para ejecutar).
+- **JVM:** Java Virtual Machine (ejecuta Bytecode en hardware nativo).

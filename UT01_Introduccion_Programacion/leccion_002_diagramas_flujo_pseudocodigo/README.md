@@ -1,5 +1,8 @@
 # leccion_002_diagramas_flujo_pseudocodigo
 
-> **Estado:** 🟡 En producción / Código Autodidacta (Guía Maestra v3.0)
+> **Estado:** 🟢 Completado / Código Autodidacta (Guía Maestra v3.0)
 
-Este directorio alberga la documentación teórica, esquemas de diseño y resolutivos de código fuente para esta lección.
+## 📌 Conceptos Clave
+- **Diagrama de Flujo:** Representación gráfica mediante simbología estándar (ANSI/ISO).
+- **Pseudocódigo:** Idioma informal estructurado previo a la codificación.
+- **Trazabilidad:** Traducción limpia de decisiones del papel a la sintaxis del lenguaje.

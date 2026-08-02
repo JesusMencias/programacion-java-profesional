@@ -1,5 +1,8 @@
 # leccion_004_clasificacion_lenguajes
 
-> **Estado:** 🟡 En producción / Código Autodidacta (Guía Maestra v3.0)
+> **Estado:** 🟢 Completado / Código Autodidacta (Guía Maestra v3.0)
 
-Este directorio alberga la documentación teórica, esquemas de diseño y resolutivos de código fuente para esta lección.
+## 📌 Clasificación
+- **Bajo Nivel:** Lenguaje máquina y Ensamblador (acceso directo al hardware, no portable).
+- **Alto Nivel:** Sintaxis humana abstracta (Java, C#, C++).
+- **Estrategia Híbrida de Java:** Compilado a bytecode intermedio (`javac`) e interpretado/JIT compilado por la JVM.

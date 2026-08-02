@@ -1,5 +1,8 @@
 # leccion_005_historia_java_woa
 
-> **Estado:** 🟡 En producción / Código Autodidacta (Guía Maestra v3.0)
+> **Estado:** 🟢 Completado / Código Autodidacta (Guía Maestra v3.0)
 
-Este directorio alberga la documentación teórica, esquemas de diseño y resolutivos de código fuente para esta lección.
+## 📌 Hitos Históricos
+- **1991:** Proyecto Green (Oak) liderado por James Gosling en Sun Microsystems.
+- **1995:** Lanzamiento oficial de Java enfocado en la Web.
+- **WORA (Write Once, Run Anywhere):** Independencia de plataforma gracias a la Virtual Machine.
