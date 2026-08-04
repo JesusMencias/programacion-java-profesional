@@ -1,8 +1,8 @@
 package UT01_Introduccion_Programacion.leccion_001_concepto_algoritmo_programa.src;
 
 /**
- * Lección 001: Demostración conceptual de la regla de Finitud.
- * Objetivo: Ilustrar cómo un algoritmo debe tener una condición de parada obligatoria.
+ * 001. Concepto de Algoritmo y Programa
+ * Objetivo: Ilustrar cómo un algoritmo debe tener una condición de parada obligatoria (Finitud).
  */
 public class ValidacionFinitud {
     
