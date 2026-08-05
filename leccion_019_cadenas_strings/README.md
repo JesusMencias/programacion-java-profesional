@@ -9,7 +9,7 @@
 En el procesamiento de software moderno, la manipulación de texto y cadenas de caracteres es una de las tareas más recurrentes. En Java, la gestión de texto posee particularidades arquitectónicas críticas que afectan de manera directa el rendimiento y el consumo de memoria RAM:
 
 **1. La Inmutabilidad de `String` y el *String Pool***
-A diferencia de otros lenguajes, en Java `String` no es un tipo de dato primitivo, sino una clase inmutable de la biblioteca estándar. Una vez que un objeto `String` es creado, su contenido interno no puede ser alterado jamás. Si se modifica, Java genera un objeto nuevo en el Heap. El *String Pool* optimiza recursos reutilizando literales idénticos.
+A diferencia de otros lenguajes, en Java `String` no es un tipo de dato primitivo, sino una clase inmutable de la biblioteca estándar (`java.lang.String`). Una vez que un objeto `String` es creado, su contenido interno no puede ser alterado jamás. Si se modifica, Java genera un objeto nuevo en el Heap. El *String Pool* optimiza recursos reutilizando literales idénticos.
 
 **2. Eficiencia con `StringBuilder` y `StringBuffer`**
 Concatenar cadenas repetidamente en bucles degrada el rendimiento. `StringBuilder` provee una clase mutable no sincronizada de alta velocidad para evitar la saturación del recolector de basura.
