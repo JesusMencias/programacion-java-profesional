@@ -1,4 +1,4 @@
-package leccion_019_cadenas_strings.src;
+package UT04_Cadenas_Caracteres_Arrays.leccion_019_cadenas_strings.src;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

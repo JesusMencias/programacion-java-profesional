@@ -1,4 +1,4 @@
-package leccion_020_matrices_multidimensionales.src;
+package UT04_Cadenas_Caracteres_Arrays.leccion_020_matrices_multidimensionales.src;
 
 /**
  * 020. Arrays Multidimensionales y Matrices Irregulares (Jagged)
